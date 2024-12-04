@@ -1,0 +1,1 @@
+ec2_name = [ "gre_myVm1", "gre_myVm2", "gre_myVm3" ]
